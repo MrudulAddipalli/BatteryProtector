@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="heat">#ff7f00</color>
+    <color name="battery">#00fffa</color>
+    <color name="health">#ff00ff</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="color">#ffffff</color>
+    <color name="color1">#00BCD4</color>
+    <color name="a">#FCE4EC</color>
+    <color name="Red">#B0BEC5</color>
+    <color name="R">#ff0000</color>
+    <color name="o">#f96c00</color>
+
+</resources>
